@@ -4,3 +4,7 @@ Decoding the Dress Code 👗: Deep Learning for Automated Fashion Item Detection
 My ML3 Project at Asian Institute of Management
 
 This is a complete pipeline demonstrating automated fashion item detection (Multiple Object Detection) using Hugging Face, Pytorch Lightning, and Fashionpedia Dataset.
+
+Refer to the ML3_FashionProject.ipynb for the complete code. For the model, you may download it from this link: https://drive.google.com/file/d/1iAcZv3nndPcRkDKDhAx4itUTFuBzaNFU/view?usp=sharing (file too big to upload here).
+
+Thank you!
