@@ -9,4 +9,4 @@ Refer to the ML3_FashionProject_Final.ipynb for the complete code. For the model
 
 I also created a blog related to this. You may read it here: https://medium.com/@erikaglacson/decoding-the-dress-code-deep-learning-for-automated-fashion-item-detection-a1ce61acfe33
 
-Thank you!
+Thank you! 
